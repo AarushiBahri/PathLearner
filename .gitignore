@@ -1,0 +1,16 @@
+# Environment files
+.env
+Backend/.env
+Frontend/.env
+
+# Python virtual environment
+Backend/venv/
+
+# Node modules
+Frontend/node_modules/
+
+# Logs
+*.log
+
+# macOS system files
+.DS_Store
