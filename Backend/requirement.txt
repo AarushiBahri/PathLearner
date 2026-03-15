@@ -3,3 +3,7 @@ uvicorn[standard]
 pydantic
 openai
 python-dotenv
+sqlalchemy
+psycopg2-binary
+requests
+beautifulsoup4
