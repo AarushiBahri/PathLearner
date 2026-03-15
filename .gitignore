@@ -1,16 +1,25 @@
 # Environment files
 .env
+.env.*
+!.env.example
 Backend/.env
 Frontend/.env
 
 # Python virtual environment
 Backend/venv/
+__pycache__/
+*.pyc
 
 # Node modules
 Frontend/node_modules/
+Frontend/dist/
 
 # Logs
 *.log
 
 # macOS system files
 .DS_Store
+
+# Editor files
+.vscode/
+.idea/
